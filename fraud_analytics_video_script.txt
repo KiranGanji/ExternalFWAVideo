@@ -1,0 +1,38 @@
+FRAUD ANALYTICS AGENTIC SYSTEM — 2 MINUTE VIDEO SCRIPT
+AI Defense Team
+========================================================
+
+
+SCENE 1 — THE PROBLEM (0:00–0:20)
+------------------------------------------------------
+Healthcare fraud evolves faster than any team can manually track. Every day, new schemes surface in the news — providers exploiting surgeries, policies, and claims in ways that cost the system billions. By the time a scheme is investigated, it has often already spread. The question is: what if we could catch these patterns the moment they emerge?
+
+
+SCENE 2 — THE VISION (0:20–0:35)
+------------------------------------------------------
+At AI Defense, we built exactly that. An always-on, agentic intelligence system that turns the world's fraud reporting into tested signals inside our own ecosystem — automatically, and at scale.
+
+
+SCENE 3 — HOW IT WORKS: INGEST & HYPOTHESIZE (0:35–0:55)
+------------------------------------------------------
+It starts by continuously scanning articles on healthcare fraud across the country. Our agents read each report and convert it into precise, testable hypotheses — asking, "Could this same abuse be happening within our claims?"
+
+
+SCENE 4 — HOW IT WORKS: REASON & BUILD (0:55–1:25)
+------------------------------------------------------
+But we don't stop at hypotheses. The system reasons across multiple angles — statistical proof, surgical prerequisites, policy mapping, and comparisons to known fraud patterns. It taps into our rich ontology layer, combining deep business and data context. Then it does something remarkable: it writes its own working code — production-ready Python notebooks that run directly on Databricks against our historical claims.
+
+
+SCENE 5 — THE OUTPUT: SIGNAL (1:25–1:40)
+------------------------------------------------------
+The result is a Signal — a precise report surfacing the providers and claims most likely abusing the system in the same way. Evidence-backed, ready for action.
+
+
+SCENE 6 — HUMAN IN THE LOOP (1:40–1:50)
+------------------------------------------------------
+And through an intuitive interface, any analyst can select an article and launch the entire agentic process on demand — turning a news story into an investigation in minutes.
+
+
+SCENE 7 — IMPACT & SCALE (1:50–2:10)
+------------------------------------------------------
+Today, this system has already generated over 2,500 hypotheses — and it's just beginning. This is the future of payment integrity: detecting fraud and abuse at a scale, speed, and precision no manual team could ever match. And every dollar of fraud we prevent is a dollar returned to affordability — lowering the cost of care and protecting the integrity of healthcare for everyone. Intelligence that never sleeps.
